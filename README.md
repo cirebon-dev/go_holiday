@@ -1,5 +1,11 @@
 this library use data [APIHariLibur_V2](https://github.com/guangrei/APIHariLibur_V2).
 
+installation
+
+```
+go get github.com/cirebon-dev/go_holiday
+```
+
 example usage:
 
 ```go
